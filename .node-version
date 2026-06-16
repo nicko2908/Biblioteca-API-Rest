@@ -1,0 +1,4 @@
+echo "18.20.4" > .node-version
+git add .node-version
+git commit -m "fix: fija version de Node en .node-version"
+git push origin main
